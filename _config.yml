@@ -1,8 +1,8 @@
 # Site
 name: 'Babel'
 description: 'Pintereso is a free Jekyll theme for awesome people like you, Pinterest like.'
-logo: 'assets/images/logo.jpg'
-favicon: 'assets/images/logo.jpg'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
 baseurl: '/babel'
 avatar: 'assets/images/tenax66.jpg'
 disqus: 'babel'
