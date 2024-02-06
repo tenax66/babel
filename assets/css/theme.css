@@ -253,11 +253,7 @@ article .card-body {
     -moz-animation-iteration-count: infinite;
     animation-iteration-count: infinite;
 }
-.pinme {
-    position: absolute;
-    top: 6px;
-    left: 10px;
-}
+
 .gotopost {
     position: absolute;
     top: 10px;
