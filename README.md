@@ -1,25 +1,5 @@
-# "Pintereso" - Jekyll Template by WowThemes.net
+# Babel
 
-[Live Demo](https://wowthemesnet.github.io/template-pintereso-bootstrap-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll/archive/master.zip) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-pintereso-bootstrap-jekyll/) &nbsp; | &nbsp; [WordPress version](https://www.wowthemes.net/themes/pinpresso-wordpress/)
-
-![Free Jekyll Theme Pintereso](assets/images/screenshot.jpg)
-
-### Copyright
-
-Copyright (C) 2018 WowThemes.net.
-
-**Pintereso for Jekyll** is designed by [Sal](https://www.wowthemes.net) and it is licensed MIT. If you want to thank Sal:
-
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
------------------
-
-## Contribute
-
-- Clone the repo.
-- Create a branch off of master and give it a meaningful name (e.g. my-new-feature).
-- Open a pull request on GitHub and describe the feature or fix. 
-
-Thank you!
-
-[Sal](https://www.wowthemes.net)
+> **広大な図書館に、おなじ本は二冊ない**。彼はこの反論の余地のない前提から、図書館は全体的なもので、その書棚は二十数個の記号のあらゆる可能な組み合わせ——その数はきわめて膨大であるが無限ではない——を、換言すれば、あらゆる言語で表現可能なもののいっさいをふくんでいると推論した。いっさいとは、未来の詳細な歴史、熾天使らの自伝、図書館の信頼すべきカタログ、何千何万もの虚偽のカタログ、これらのカタログの虚偽性の証明、真実のカタログの虚偽性の証明、バシリデスのグノーシス派の福音書、この福音書の注解、この福音書の注解の注解、あなたの死の真実の記述、それぞれの本のあらゆる言語への翻訳、それぞれの本のあらゆる本のなかへの挿入、などである。
+> 
+> *J. L. ボルヘス 「バベルの図書館」*
