@@ -5,7 +5,6 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/babel'
 avatar: 'assets/images/tenax66.jpg'
-disqus: 'babel'
 email: 'hiyoshir+tenax66@gmail.com'
 
 include: ["_pages"]
