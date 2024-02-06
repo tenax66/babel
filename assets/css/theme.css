@@ -269,7 +269,18 @@ article .card-body {
     border-radius: 2px;
     box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
 }
-.PageNavigation a {
+
+/* Displayed only on PCs */
+.PageNavigation {
+  display: none; 
+}
+
+@media only screen and (min-width: 768px) {
+  .PageNavigation {
+    display: block; 
+  }
+
+  .PageNavigation a {
     position: fixed;
     top: 47%;
     font-weight: 700;
@@ -279,18 +290,21 @@ article .card-body {
     border-radius: 40px;
     font-size:12px;
     line-height: 1.3;
-}
-.PageNavigation a i {
+  }
+
+  .PageNavigation a i {
     font-size:40px;
     width:60px;
     height:60px;
     line-height:60px;
     border-radius:50%;
-    
-}
-.PageNavigation a:hover {
+  }
+
+  .PageNavigation a:hover {
     color:#333;
+  }
 }
+
 a.prev {    
     left: 100px;    
 }
