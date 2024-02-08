@@ -1,5 +1,5 @@
 ---
-title: "毒薬の手帳"
+title: "毒薬の手帖"
 categories: [poison, history]
 image: "/assets/images/notebook-of-poison/cesare-borgia.jpg"
 visit: https://amzn.to/497GgSi
