@@ -2,6 +2,7 @@
 title: "角砂糖の日"
 categories: [tanka, fantasy]
 image: "/assets/images/sugar-cube-day/sugar-cube-day.jpg"
+credit: "Michael Paraskevas (CC BY-SA 3.0)"
 visit: https://amzn.to/3w9ZaJY
 ---
 
