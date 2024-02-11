@@ -1,5 +1,5 @@
 /* カードの画像リンク用 */
-.card-link {
+.card-img-link {
   position: absolute;
   top: 0;
   left: 0;
@@ -10,6 +10,6 @@
 }
 
 /* 画像を覆うdivに対するホバー時のスタイル */
-.card-image-container:hover .link {
+.card-image-container:hover .card-img-link {
   display: block;
 }
