@@ -2,7 +2,7 @@
 title: "ニューロマンサー"
 categories: [sf, cyberpunk]
 image: "/assets/images/neuromancer/neuromancer.jpg"
-credit: "Francisco Diez"
+credit: "Francisco Diez (CC BY 2.0)"
 visit: https://amzn.to/3HQNXk4
 ---
 
