@@ -1,5 +1,5 @@
 ---
-title: "暴動 (There's a riot goin' on)"
+title: "暴動 (There's a Riot Goin' On)"
 categories: [music, funk]
 image: "/assets/images/there's-a-riot-goin'-on/there's-a-riot-goin'-on.jpg"
 visit: https://amzn.to/49qZRN8
@@ -13,6 +13,7 @@ visit: https://amzn.to/49qZRN8
 全曲をとおしてリズムセクションの音づくりが特徴的で、中でも「Family Affair」などではチープなリズムボックスと、ゴムのようなベースの絡み合いが聴ける。  
 このベースのローが抜け落ちたような音づくり、どうやったらこうなるのだろうか。スコップで地面を掘っているような音である。
 
-アルバムのタイトル「There's a riot goin' on」は、このアルバムの6ヶ月前に発表されたマーヴィン・ゲイ「What's goin'on」 への回答だという。おりしも1971年、ブラックパワー運動は最盛期をむかえていた。
+アルバムのタイトル「There's a Riot Goin' On」は、このアルバムの6ヶ月前に発表されたマーヴィン・ゲイ「What's going on
+」 への回答だという。おりしも1971年、ブラックパワー運動は最盛期をむかえていた。
 
 天才がひとりスタジオで、自分の心身をすりつぶすようにして作ったアルバムには固有の息苦しい魅力がある。ビーチボーイズの「Pet Sounds」にも似たようなことを思う。狙って作れるものではないのだろうけど、そういうアルバムを聴くのはすきだ。
