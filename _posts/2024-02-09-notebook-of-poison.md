@@ -3,6 +3,7 @@ title: "毒薬の手帖"
 categories: [poison, history]
 image: "/assets/images/notebook-of-poison/cesare-borgia.jpg"
 visit: https://amzn.to/497GgSi
+lastmod: "2024-02-10"
 ---
 
 > いささか奇矯な言辞を弄すれば、文化の洗練と殺人の洗練とは、おそらく、いつの時代にも並行して達成されるのであろう。[^1]
